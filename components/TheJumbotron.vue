@@ -18,15 +18,11 @@
                 <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">
         Get ready to immerse yourself in "The Maze," a thrilling 3D maze game that will challenge your navigation skills and keep you on the edge of your seat. Built using C and SDL2, with stunning graphics powered by raycasting, "The Maze" offers a unique gaming experience that combines retro charm with modern performance.
 </p>
-                <a href="#"
-                    class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
-                    Read more
-                    <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                        fill="none" viewBox="0 0 14 10">
-                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M1 5h12m0 0L9 1m4 4L9 9" />
-                    </svg>
-                </a>
+    <button
+      class="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-cyan-500 to-blue-500 group-hover:from-cyan-500 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-cyan-200 dark:focus:ring-cyan-800">
+      <span
+        class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">Download</span>
+    </button>
             </div>
             <div class="grid md:grid-cols-2 gap-8">
                 <div
